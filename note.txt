@@ -1,0 +1,5 @@
+[2024-12-08T09:31:06.583Z] Connection established. ID: c5fd4a4f-2dc2-494f-931c-e1f45b3c7eaa
+[2024-12-08T09:31:18.453Z] ID: c5fd4a4f-2dc2-494f-931c-e1f45b3c7eaa - salam
+[2024-12-08T13:00:30.923Z] Connection established. ID: 8094135c-bfa7-49c2-aa63-4d10922347e2
+[2024-12-08T13:00:34.844Z] ID: 8094135c-bfa7-49c2-aa63-4d10922347e2 - salam
+[2024-12-08T13:00:38.398Z] Connection closed. ID: 8094135c-bfa7-49c2-aa63-4d10922347e2

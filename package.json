@@ -1,0 +1,15 @@
+{
+  "name": "14200listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "14200listener": "file:",
+    "uuid": "^11.0.3"
+  }
+}
